@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="UserImages.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\MFC_ExodusTank.rc2">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\MFC_ExodusTankDoc.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\MFC_ExodusTank.ico">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Toolbar256.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\conc.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\title.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Select.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\On.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bitmap2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Off.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Wood.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Asp.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Metal.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Arrow.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Sky.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Wood1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\metalmap.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="ClassDiagram1.cd" />
+    <None Include="res\Tank1.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Tank2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Tank3.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Tank4.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Main.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Option.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Tank.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Weapon.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\concrte.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\nature.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\city.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Cloud.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Info.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Info2.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Tank1_L.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Tank2_L.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Tank3_L.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Tank4_L.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\Fortess Projec temping - 복사본\MFC_ExodusTank\res\bksound1.wav">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="..\..\Fortess Projec temping - 복사본\MFC_ExodusTank\res\bksound2.wav">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\Bar.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\HealthBar.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\GameOver.bmp">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bksound1.wav">
+      <Filter>리소스 파일</Filter>
+    </None>
+    <None Include="res\bksound2.wav">
+      <Filter>리소스 파일</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="MFC_ExodusTank.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="MainFrm.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameDoc.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="GameView.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Tank.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Map.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MFC_ExodusTank.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="MainFrm.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameDoc.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="GameView.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Tank.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="Map.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MFC_ExodusTank.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
